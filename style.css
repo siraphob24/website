@@ -38,3 +38,8 @@ body {
     height: 320px;
     padding: auto;
   }
+
+  .map{
+    border: 1px solid rgb(240, 227, 115);
+    height: 300px;
+  }
