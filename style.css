@@ -21,6 +21,10 @@ footer {
   text-align: center;
 }
 
+a {
+  color: black;
+  text-emphasis: none;
+}
 .mainpage {
   width: 1024px; 
   margin: 0 auto;
